@@ -1,5 +1,6 @@
 # Data files
-/data
+/data_ccle
+/data_tcga
 /ccle_broad_2019
 /cellline_ccle_broad
 mutations.txt
